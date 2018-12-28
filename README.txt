@@ -15,7 +15,7 @@ filling the day contiguously. For example Team 1 has "Learning Magic Tricks" sta
 with a duration of 40min. This leaves 35 minutes till lunch. As the next item's duration was longer 
 than 35minutes, it is scheduled after lunch. It would be "more correct" to identify suitable tasks 
 by duration to fill time more efficiently. However this was not part of the spec and would be 
-considered "spec creep" and would be recomended for a later version. This would also require code 
+considered "spec creep" and could be recomended for a later version. This would also require code 
 to ensure activites do not overlap with other teams, ie at any one time only one team would be 
 allocated to one activity.
 
