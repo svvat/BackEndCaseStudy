@@ -1,5 +1,5 @@
 # BackEndCaseStudy
-Case Study for Deloitte - See README.TXT for more detailed information
+Code test for Deloitte - See README.TXT for more detailed information
 
 Application developed using Visual Studio 2017 and C#
 
